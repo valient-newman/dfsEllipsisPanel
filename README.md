@@ -20,6 +20,8 @@
   This component can be freely used and distributed in commercial and private environments.
   All DFS source code is provided free of charge. The software is provided to you "AS-IS".
   As such, there is no guarantee of any support whatsoever.
-  The component throws an Access violation error and the source code can be used for study.
+  The component throws an Access violation error and its source code can be used as an example 
+  for study.
 
   Date last modified by Newman: December 22, 2025 
+
