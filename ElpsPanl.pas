@@ -62,7 +62,7 @@
 {------------------------------------------------------------------------------}
 { Date last modified:  June 27, 2001                                           }
 {------------------------------------------------------------------------------}
-{ Date last modified by Newman:  December 22, 2025                             }
+{ Date last modified by Newman:  December 15, 2025                             }
 { Github Repository <https://github.com/valient-newman>                        }
 {------------------------------------------------------------------------------}
 
@@ -71,7 +71,7 @@ unit ElpsPanl;
 interface
 
 uses
-  {$IFDEF DFS_COMPILER_12_UP}
+  {$IFDEF DFS_COMPILER_2_UP}
   Windows,
   {$ELSE}
   WinTypes, WinProcs,

@@ -1,5 +1,5 @@
   Changes in TdfsEllipsisPanel have been made by Valient Newman 
-  to make the component meet the requirements of Delphi 2009 and higher.
+  to make the component meet the requirements of Delphi 2, 2009 and higher.
 
   Checked in Delphi 2009
   
@@ -24,4 +24,3 @@
   for study.
 
   Date last modified by Newman: December 22, 2025 
-
